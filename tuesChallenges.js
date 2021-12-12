@@ -6,12 +6,12 @@
 // is too short. Otherwise log the password to the
 // console.
 
-let password = 'catsndogs123';
-if (password.length() <= 7) {
- // return false;
-  console.log('password is too short!');
-  } else {
-console.log(password);
+// let password = 'catsndogs123';
+// if (password.length <= 7) {
+//   console.log(password);
+// } else {
+//   console.log('password is too short!');
+// }
 
 // Challenge 2(use both if/else and switch):
 
